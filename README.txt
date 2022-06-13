@@ -1,6 +1,6 @@
-Podpis Cyfrowy.
+Podpis Cyfrowy
 
-Skrypt otwiera plik automatycznie ("tekst1.txt")
-generuje parę kluczy (private, public)
-szyfruje wiadomość z "tekst1", a następnie szyfruje wiadomość z "tekst2".
-następnie dokonywana jest validacja pomiędzy HASHAMI i jest komunikat o powodzeniu lub failu operacji.
+program pyta jaki plik ma otworzyć (tutaj statycznie z ręki wpisany adres)
+wybieramy plik do podpisania
+wybieramy plik do weryfikacji
+następnie wybieramy wiadomość którą chcemy odczytać i program zwraca czy zostanie odczytana poprawnie czy też nie zostanie odczytana.
